@@ -1,0 +1,1 @@
+int(f"The least represented industry is '{industry_counts.idxmin()}' 
